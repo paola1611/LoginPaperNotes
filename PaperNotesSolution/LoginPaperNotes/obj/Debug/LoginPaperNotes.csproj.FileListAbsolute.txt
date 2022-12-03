@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\bin\Debug\LoginPaperNotes.exe.config
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\bin\Debug\LoginPaperNotes.exe
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\bin\Debug\LoginPaperNotes.pdb
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\obj\Debug\LoginPaperNotes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\obj\Debug\LoginPaperNotes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\obj\Debug\LoginPaperNotes.Properties.Resources.resources
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\obj\Debug\LoginPaperNotes.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\obj\Debug\LoginPaperNotes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\obj\Debug\LoginPaperNotes.exe
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\obj\Debug\LoginPaperNotes.pdb
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\obj\Debug\LoginPaperNotes.Splash.resources
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\obj\Debug\LoginPaperNotes.Login.resources
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\bin\Debug\ConnectionClassL.dll
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\bin\Debug\ConnectionClassL.pdb
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\obj\Debug\LoginPaperNotes.csproj.CopyComplete
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\bin\Debug\ConexionClass.dll
+C:\Users\User\source\repos\PaperNotesSolution\LoginPaperNotes\bin\Debug\ConexionClass.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\PaperNotesSolution\ConexionClass\bin\Debug\ConexionClass.pdb
+C:\Users\User\source\repos\PaperNotesSolution\ConexionClass\obj\Debug\ConexionClass.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PaperNotesSolution\ConexionClass\obj\Debug\ConexionClass.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PaperNotesSolution\ConexionClass\obj\Debug\ConexionClass.dll
+C:\Users\User\source\repos\PaperNotesSolution\ConexionClass\obj\Debug\ConexionClass.pdb
+C:\Users\User\source\repos\PaperNotesSolution\ConexionClass\bin\Debug\ConnectionClassL.dll
+C:\Users\User\source\repos\PaperNotesSolution\ConexionClass\bin\Debug\ConnectionClassL.pdb
+C:\Users\User\source\repos\PaperNotesSolution\ConexionClass\obj\Debug\ConexionClass.csproj.CopyComplete
